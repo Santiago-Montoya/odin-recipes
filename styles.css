@@ -1,0 +1,45 @@
+body {
+    font-family: 'Roboto Slab', serif;
+}
+
+h1 {
+    font-size: 5rem;
+    margin-top: 5px;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    border-radius: 50px;
+    width: 50%;
+}
+
+a {
+    font-size: 2rem;
+    color: white;
+    background-color: black;
+    border-radius: 30px;
+    padding: 5px 50px 5px 50px;
+}
+
+footer {
+    margin-top: 100px;
+}
+
+.main, 
+#content li,
+footer li {
+    margin: 20px;
+    list-style: none;
+}
+
+#top img {
+    width: 100%;
+}
+
